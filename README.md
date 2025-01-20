@@ -51,12 +51,10 @@ I am passionate about leveraging cloud technologies, enhancing system security, 
 
 ## 🎓 Certifications
 
-| Certification                                | Logo                                                                 |
-|---------------------------------------------|----------------------------------------------------------------------|
-| **AWS Certified Cloud Practitioner**        | ![AWS Certified Cloud Practitioner](https://example.com/aws-logo.png) |
-| **AWS Certified Solutions Architect Associate** | ![AWS Certified Solutions Architect Associate](https://example.com/aws-architect-logo.png) |
-| **CompTIA Security+**                       | ![CompTIA Security+](https://example.com/security-plus-logo.png)    |
-| **Cisco Networking Fundamentals**           | ![Cisco Networking](https://example.com/cisco-logo.png)             |
+- ![AWS Certified Cloud Practitioner](https://example.com/aws-cloud-practitioner-badge.png) **AWS Certified Cloud Practitioner**  
+- ![AWS Certified Solutions Architect Associate](https://example.com/aws-solutions-architect-badge.png) **AWS Certified Solutions Architect Associate**  
+- ![CompTIA Security+](https://example.com/comptia-security-plus-badge.png) **CompTIA Security+**  
+- ![Cisco Networking Fundamentals](https://example.com/cisco-networking-badge.png) **Cisco Networking Fundamentals**
 
 ---
 
@@ -96,4 +94,3 @@ Deployed and hosted a highly available personal portfolio website using:
 I'm actively seeking roles where I can apply my skills in **IT support**, **cloud engineering**, or **cybersecurity** to drive impactful results.  
 
 Feel free to explore my repositories and reach out to collaborate or discuss opportunities!
-
