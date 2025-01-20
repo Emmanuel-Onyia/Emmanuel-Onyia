@@ -23,7 +23,7 @@
 
 I am an experienced **Technical Support Specialist** with over **3 years** of expertise in IT support, system administration, and hardware troubleshooting across **Windows**, **Linux**, and **MacOS** environments. My **3-5 year goal** is to become a subject matter expert with regard to **cloud security**.
 
-I am currently learning **cloud technologies (AWS)** through projects and self-study. My strengths lie in resolving complex technical issues, optimizing system performance, and implementing secure, scalable solutions.
+I am currently learning **cloud technologies (AWS)** through projects and self-study. 
 
 ---
 
