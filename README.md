@@ -51,7 +51,7 @@ I am passionate about leveraging cloud technologies, enhancing system security, 
 
 ## 🎓 Certifications
 
-- ![AWS Certified Cloud Practitioner](https://example.com/aws-cloud-practitioner-badge.png) **AWS Certified Cloud Practitioner**  
+- ![AWS Certified Cloud Practitioner](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png) **AWS Certified Cloud Practitioner**  
 - ![AWS Certified Solutions Architect Associate](https://example.com/aws-solutions-architect-badge.png) **AWS Certified Solutions Architect Associate**  
 - ![CompTIA Security+](https://example.com/comptia-security-plus-badge.png) **CompTIA Security+**  
 - ![Cisco Networking Fundamentals](https://example.com/cisco-networking-badge.png) **Cisco Networking Fundamentals**
