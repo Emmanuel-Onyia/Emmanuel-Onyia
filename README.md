@@ -49,12 +49,13 @@ I am currently learning **cloud technologies (AWS)** through projects and self-s
 ## 🛠️ Technical Skills
 
 - **Operating Systems**: Windows, Linux, MacOS  
-- **Cloud Technologies**: AWS (EC2, S3, CloudFront, ACM, Route 53)  
+- **Cloud Technologies**: AWS (EC2, S3, CloudFront, ACM, Route 53)
+- **Automation (CI/CD)**: Github actions, Learning terraform
 - **Programming Languages**: HTML/CSS, C, Python  
-- **Tools**: Jira, Zendesk, Slack, Atlassian Suite (Confluence, Okta), Active Directory  
+- **Tools**: Jira, Zendesk, Slack, Atlassian Suite (Confluence, Okta)
 - **Networking**: VPN, TCP/IP, Wi-Fi troubleshooting, Cisco configuration  
 - **Security**: OpenVPN, SSL, IPSec, Firewall  
-- **Microsoft 365 Administration**: Intune, Azure AD  
+
 
 ---
 
